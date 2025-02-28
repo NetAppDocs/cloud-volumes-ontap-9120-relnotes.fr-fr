@@ -131,7 +131,7 @@ Inversement, si vous avez déployé Cloud Volumes ONTAP à l'aide d'un autre typ
 
 . Lors de l'utilisation d'un système à un seul nœud, la vitesse d'écriture élevée est prise en charge avec tous les types d'instances. Vous pouvez augmenter la vitesse d'écriture à partir de BlueXP  pendant le déploiement ou à tout moment après. https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-write-speed.html["En savoir plus sur le choix d'une vitesse d'écriture"^].
 . Les performances d'écriture améliorées sont activées lorsque l'utilisation de disques SSD est utilisée.
-. Pour la prise en charge des régions Azure, voir https://cloud.netapp.com/cloud-volumes-global-regions["Régions Cloud volumes Global"^].
+. Pour la prise en charge des régions Azure, voir https://bluexp.netapp.com/cloud-volumes-global-regions["Régions Cloud volumes Global"^].
 . Cloud Volumes ONTAP peut être exécuté sur une instance de machine virtuelle réservée ou à la demande auprès de votre fournisseur cloud. Les solutions qui utilisent d'autres types d'instances VM ne sont pas prises en charge.
 
 
@@ -213,7 +213,7 @@ Remarques :
 . Avec Cloud Volumes ONTAP, la vitesse d'écriture est élevée pour ces types de VM lors de l'utilisation d'une paire haute disponibilité. Vous pouvez augmenter la vitesse d'écriture à partir de BlueXP  pendant le déploiement ou à tout moment après. https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-write-speed.html["En savoir plus sur le choix d'une vitesse d'écriture"^].
 . Cette machine virtuelle est recommandée uniquement lorsque le contrôle de maintenance Azure est nécessaire. Cette utilisation n'est pas recommandée pour les autres cas d'utilisation en raison des tarifs plus élevés.
 . PAYGO Explore n'est pas pris en charge avec les paires haute disponibilité dans Azure.
-. Pour la prise en charge des régions Azure, voir https://cloud.netapp.com/cloud-volumes-global-regions["Régions Cloud volumes Global"^].
+. Pour la prise en charge des régions Azure, voir https://bluexp.netapp.com/cloud-volumes-global-regions["Régions Cloud volumes Global"^].
 . Cloud Volumes ONTAP peut être exécuté sur une instance de machine virtuelle réservée ou à la demande auprès de votre fournisseur cloud. Les solutions qui utilisent d'autres types d'instances VM ne sont pas prises en charge.
 
 
